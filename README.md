@@ -4,6 +4,8 @@ This repository contains all the "handout" materials for my [Python Jumpstart by
 
 [Register for the course](https://training.talkpython.fm/courses/details/python-language-jumpstart-building-10-apps) and get started mastering Python today.
 
+
+
 Not familiar with my Python jumpstart course? Here's a quick intro video.
 
 [![Learn more about Python Jumpstart by Building 10 Apps Course](readme_resources/video_play.png)](https://training.talkpython.fm/courses/details/python-language-jumpstart-building-10-apps)
